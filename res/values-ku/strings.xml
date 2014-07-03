@@ -14,4 +14,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"/>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="provider_label">ناوەکان</string>
+  <string name="default_directory">ناوەکان</string>
+  <string name="local_invisible_directory">دیکە</string>
+  <string name="debug_dump_start_button">دەستپێکردن</string>
+</resources>
